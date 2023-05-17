@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simongideon&label=Profile%20views&color=0e75b6&style=flat" alt="simongideon" /> </p>
 
-
 - 🔭 I’m currently **a [Micronaut at Microverse](https://microverse.org) learning Full-stack Web Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SimonGideon](https://github.com/SimonGideon)
