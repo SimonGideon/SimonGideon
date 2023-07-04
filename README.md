@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simongideon&label=Profile%20views&color=0e75b6&style=flat" alt="simongideon" /> </p>
 
-- 🔭 I’m currently **a [Micronaut at Microverse](https://microverse.org) learning Full-stack Web Development.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SimonGideon](https://github.com/SimonGideon)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **simongideon918@gmail.com**
-
-- ⚡ Fun fact **I'm funny and full of humor**
+💡 &nbsp; I’m looking to collaborate on JavaScript, React, and Ruby on Rails Project\
+🎓 &nbsp; I'm a Mathematics and Computer Science Graduate from Taita Taveta University Kenya.\
+😄 Pronouns: He/Him\
+✉️ &nbsp;You can shoot me an email at simongideon918@gmail.com I'll try to respond as soon as I can.\
+⚡ Fun fact **I'm funny and full of humor**
 
 <p align="center">Connect with me:</p>
 <p align="center">
@@ -22,7 +18,7 @@
 <a href="https://instagram.com/simon_gideon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simon_gideon_" height="20" width="30" /></a>
 <a href="https://www.hackerrank.com/@simongideon918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@simongideon918" height="20" width="30" /></a>
 </p>
-
+<br>
 <p align="center">
 <a href="https://github.com/SimonGideon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SimonGideon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
