@@ -6,17 +6,16 @@
 💡 &nbsp; I’m looking to collaborate on JavaScript, React, and Ruby on Rails Project\
 🎓 &nbsp; I'm a Mathematics and Computer Science Graduate from Taita Taveta University Kenya.\
 😄 Pronouns: He/Him\
-✉️ &nbsp;You can shoot me an email at simongideon918@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp; You can shoot me an email at simongideon918@gmail.com I'll try to respond as soon as I can.\
 ⚡ Fun fact **I'm funny and full of humor**
 
-<p align="center">Connect with me:</p>
+
 <p align="center">
-<a href="https://codepen.io/simongideon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="simongideon" height="20" width="30" /></a>
-<a href="https://twitter.com/simo_giddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simo_giddy" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/mnayi-gideon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnayi-gideon" height="20" width="30" /></a>
-<a href="https://stackoverflow.com/users/17531924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17531924" height="20" width="30" /></a>
-<a href="https://instagram.com/simon_gideon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simon_gideon_" height="20" width="30" /></a>
-<a href="https://www.hackerrank.com/@simongideon918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@simongideon918" height="20" width="30" /></a>
+  <span>Reach Me out</span> 
+  <br>
+<a href="https://www.linkedin.com/in/simon-gideon/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:simongideon918@gmail.com"><img src="https://img.shields.io/badge/-simongideon918@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/Simo_Giddy"><img src="https://img.shields.io/badge/-@Simo_Giddy-E4405F?style=flat&logo=Twitter&logoColor=blue"/></a>
 </p>
 <br>
 <p align="center">
