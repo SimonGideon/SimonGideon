@@ -13,7 +13,7 @@
 <p align="center">
   <span>Reach Me out</span> 
   <br>
-<a href="https://www.linkedin.com/in/simon-gideon/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/simon-gideon/"><img src="https://img.shields.io/badge/-Simon%20Gideon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:simongideon918@gmail.com"><img src="https://img.shields.io/badge/-simongideon918@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/Simo_Giddy"><img src="https://img.shields.io/badge/-@Simo_Giddy-E4405F?style=flat&logo=Twitter&logoColor=blue"/></a>
 </p>
