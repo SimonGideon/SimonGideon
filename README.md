@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simongideon&label=Profile%20views&color=0e75b6&style=flat" alt="simongideon" /> </p>
 
 💡 &nbsp; I’m looking to collaborate on JavaScript, React, and Ruby on Rails Project\
-🎓 &nbsp; I'm a Mathematics and Computer Science Graduate from Taita Taveta University Kenya.\
+🎓 &nbsp; I'm a Mathematics and Computer Science Graduate.\
 😄 Pronouns: He/Him\
 ✉️ &nbsp; You can shoot me an email at simongideon918@gmail.com I'll try to respond as soon as I can.\
 ⚡ Fun fact **I'm funny and full of humour**
