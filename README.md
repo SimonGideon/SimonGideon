@@ -7,7 +7,7 @@
 🎓 &nbsp; I'm a Mathematics and Computer Science Graduate.\
 😄 Pronouns: He/Him\
 ✉️ &nbsp; You can shoot me an email at simongideon918@gmail.com I'll try to respond as soon as I can.\
-⚡ Fun fact **I'm funny and full of humour**
+⚡ Fun fact **I'm funny and full of humor**
 
 
 <p align="center">
