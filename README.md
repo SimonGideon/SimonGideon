@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon Gideon</h1>
 <h3 align="center">A passionate Developer converting ideas into vision</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simongideon&label=Profile%20views&color=0e75b6&style=flat" alt="simongideon" /> </p>
 
 💡 &nbsp; I’m looking to collaborate on JavaScript, React, and Ruby on Rails Project\
