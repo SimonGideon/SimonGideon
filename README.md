@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Simon Gideon</h1>
 <h3 align="center">A passionate Developer converting ideas into Reality</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simongideon&label=Profile%20views&color=0e75b6&style=flat" alt="simongideon" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=simongideon&label=Profile%20views&color=0e75b6&style=flat" alt="simongideon" /> </p> -->
 
-💡 &nbsp; I’m looking to collaborate on JavaScript, React, and Ruby on Rails Project\
-🎓 &nbsp; I'm a Mathematics and Computer Science Graduate.\
+💡 &nbsp; I’m looking to collaborate on JavaScript, React, and Ruby on Rails, .Net Project\
+🎓 &nbsp; I'm a Pure Mathematics and Computer Science Graduate.\
 😄 Pronouns: He/Him\
 ✉️ &nbsp; You can shoot me an email at simongideon918@gmail.com I'll try to respond as soon as I can.\
-⚡ Fun fact **I'm funny and full of humor**
+⚡ Fun fact **I'm funny and full of humor and a team builder**
 
 
 <p align="center">
